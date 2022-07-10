@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I have 9+ years experience engineering accessible web solutions.
-
-Currently delivering applications with a headless CMS and the following Javascript stack: React JS, Redux and TypeScript.
-
 <!--
 **jrwalden/jrwalden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
